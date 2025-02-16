@@ -1,0 +1,14 @@
+{
+    "Food": [
+        {
+            "amount": 20.0,
+            "description": "For eating"
+        }
+    ],
+    "Rent": [
+        {
+            "amount": 23.0,
+            "description": "for rent"
+        }
+    ]
+}
