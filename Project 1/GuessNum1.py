@@ -18,7 +18,7 @@ def Guess_theNum():
                 print("too much.try again")
             else:
                 print("You have guess it in {attempts} attempts")
-            break
+                break
         except ValueError:
             print("Invalid input! Please enter a number.")
 
